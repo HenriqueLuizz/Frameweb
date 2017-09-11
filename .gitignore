@@ -1,3 +1,6 @@
 node_modules
 public
 *.log
+angular1/node_modules/*
+angular1/public/*
+backend/node_modules/*
